@@ -1,6 +1,6 @@
 # Hello, I'm Oscar Mwangangi 👋
 
-I am a passionate and dedicated full-stack developer with a strong focus on building robust, scalable web applications. I continuously strive to learn new technologies and stay updated with the latest industry trends.
+full-stack developer with a strong focus on building robust, scalable web applications. I continuously strive to learn new technologies and stay updated with the latest industry trends.
 
 ## Languages & Technologies I Work With:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -14,7 +14,7 @@ I am a passionate and dedicated full-stack developer with a strong focus on buil
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ## About Me
-As a full-stack developer, I specialize in creating dynamic and responsive web applications. With a strong background in both frontend and backend technologies, I have experience building applications using Python, PHP, JavaScript, and frameworks like React, Node.js, and Express. I'm also skilled in using MySQL for database management and styling with Tailwind CSS and Bootstrap to create visually appealing user interfaces.
+I specialize in creating dynamic and responsive web applications. With a strong background in both frontend and backend technologies, I have experience building applications using Python, PHP, JavaScript, and frameworks like React, Node.js, and Express. I'm also skilled in using MySQL for database management and styling with Tailwind CSS and Bootstrap to create visually appealing user interfaces.
 
 ## Let's Connect:
 - [LinkedIn]([https://www.linkedin.com/in/oscar-mwangangi)](https://www.linkedin.com/in/oscar-m-57a622324/)
