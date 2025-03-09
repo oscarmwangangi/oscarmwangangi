@@ -12,6 +12,7 @@ full-stack developer with a strong focus on building robust, scalable web applic
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Motoko](https://img.shields.io/badge/Motoko-3A1E5C?style=for-the-badge&logo=dfinity&logoColor=white)](https://internetcomputer.org/docs/current/motoko/)
 [![Motoko](https://img.shields.io/badge/Motoko-DFINITY-29abe2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI1IDBDNTYgMCAwIDU2IDAgMTI1czU2IDEyNSAxMjUgMTI1IDEyNS01NiAxMjUtMTI1LTU2LTEyNS0xMjUtMTI1eiIvPjxwYXRoIGZpbGw9IiMyOWFiZTIiIGQ9Ik0xMjUgMjI1Yy01NSAwLTEwMC00NS0xMDAtMTAwczQ1LTEwMCAxMDAtMTAwIDEwMCA0NSAxMDAgMTAwLTQ1IDEwMC0xMDAgMTAwem0wLTE3NWMtNDEgMC03NSA3NS03NSA3NXMzNCA3NSA3NSA3NSA3NS0zNCA3NS03NS0zNC03NS03NS03NXoiLz48L3N2Zz4=)](https://internetcomputer.org/)
 
 
