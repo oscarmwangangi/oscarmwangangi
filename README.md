@@ -16,7 +16,9 @@ full-stack developer with a strong focus on building robust, scalable web applic
 
 
 ## About Me
-I specialize in creating dynamic and responsive web applications. With a strong background in both frontend and backend technologies, I have experience building applications using Python, PHP, JavaScript, and frameworks like React, Node.js, and Express. I'm also skilled in using MySQL for database management and styling with Tailwind CSS and Bootstrap to create visually appealing user interfaces.
+I specialize in creating dynamic, responsive, and intelligent web applications. With a strong background in both frontend and backend technologies, I have experience building applications using Python (Django), PHP (Laravel), and JavaScript (React, Node.js, Express). I’m also skilled in database management with MySQL and crafting visually appealing user interfaces using Tailwind CSS and Bootstrap.
+
+Currently, I’m diving into the world of Web3, exploring Motoko for decentralized app development on the Internet Computer blockchain, and leveraging Machine Learning to build smarter, data-driven solutions. Passionate about innovation, I’m always eager to learn and apply cutting-edge technologies to solve real-world problems.
 
 ## Let's Connect:
 - [LinkedIn]([https://www.linkedin.com/in/oscar-mwangangi)](https://www.linkedin.com/in/oscar-m-57a622324/)
