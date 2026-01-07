@@ -1,6 +1,6 @@
 # Hello, I'm Oscar Mwangangi 👋
 
-🚀 **Full-Stack Developer** | **Mobile App Developer** | **Web3 Enthusiast**
+🚀 **Full-Stack Developer** |**Web Developer** | **Mobile App Developer** | **Web3 Enthusiast**
 
 I specialize in building robust, scalable applications across web and mobile platforms. Passionate about creating elegant solutions to complex problems while staying at the forefront of technology trends.
 
