@@ -88,11 +88,22 @@
 
 <div align="center">
 
+## `$ cat /proc/stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=oscarmwangangi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6" width="300" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmwangangi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" width="300" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarmwangangi&theme=radical&hide_border=true&background=0d1117&ring=ff79c6&fire=ff6f72&currStreakLabel=ff79c6" width="300" />
+<div align="center">
 
+``bash
+Username    : oscarmwangangi
+Repos       : 45       [██████████░░░░░░] 75%
+Commits     : 1.2k     [████████████░░░] 80%
+Languages   : 
+   JavaScript  [███████████░░░] 85%
+   Python      [█████████░░░░] 70%
+   Dart        [████████░░░░░] 60%
+Streak      : 75 days  [██████████░░░░] 75%
+Projects    : Web [███████████░░░] 85%
+              Mobile [██████████░░░] 75%
+              Web3 [████████░░░░░] 60%
 
 
 </div>
