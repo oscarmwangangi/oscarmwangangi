@@ -1,7 +1,7 @@
   
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&fontSize=32&width=600&lines=Full-Stack+Engineer;Mobile+App+Architect;Web3+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
-</p>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&fontSize=92&width=600&lines=Full-Stack+Engineer;Mobile+App+Architect;Web3+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
 </div>
 
