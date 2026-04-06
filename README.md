@@ -1,66 +1,76 @@
-# Hello, I'm Oscar Mwangangi 👋
+<div align="center">
 
-🚀 **Full-Stack Developer** | **Web Developer** | **Mobile App Developer** | **Web3 Enthusiast**
+```
+  ___  ____   ____    _    ____     __  ____      ___
+ / _ \/ ___| / ___|  / \  |  _ \   \ \/ /\ \    / / \
+| | | \___ \| |     / _ \ | |_) |   \  /  \ \/\/ / _ \
+| |_| |___) | |___ / ___ \|  _ <    /  \   \  / / ___ \
+ \___/|____/ \____/_/   \_\_| \_\  /_/\_\   \/_/_/   \_\
+```
 
-I specialize in building robust, scalable applications across web and mobile platforms. Passionate about creating elegant solutions to complex problems while staying at the forefront of technology trends.
+**Full-Stack & Mobile Developer · Nairobi, Kenya**
 
-## 🛠️ Technologies & Tools
+</div>
 
-### Languages
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+---
+
+## whoami
+
+```js
+const oscar = {
+  name    : "Oscar Mwangangi",
+  location: "Nairobi, Kenya",
+  role    : ["Full-Stack Dev", "Mobile Dev", "Web3 Enthusiast"],
+  focus   : ["Flutter", "React / Next.js", "Node.js", "Django"],
+  web3    : ["ICP / Motoko", "Blockchain", "Smart Contracts"],
+  open_to : ["Freelance", "Collaborations", "Full-time Roles"],
+}
+```
+
+---
+
+## Tech Stack
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Frontend
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Emerging Tech
-[![Motoko](https://img.shields.io/badge/Motoko-DFINITY-29abe2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI1IDBDNTYgMCAwIDU2IDAgMTI1czU2IDEyNSAxMjUgMTI1IDEyNS01NiAxMjUtMTI1LTU2LTEyNS0xMjUtMTI1eiIvPjxwYXRoIGZpbGw9IiMyOWFiZTIiIGQ9Ik0xMjUgMjI1Yy01NSAwLTEwMC00NS0xMDAtMTAwczQ1LTEwMCAxMDAtMTAwIDEwMCA0NSAxMDAgMTAwLTQ1IDEwMC0xMDAgMTAwem0wLTE3NWMtNDEgMC03NSA3NS03NSA3NXMzNCA3NSA3NSA3NSA3NS0zNCA3NS03NS0zNC03NS03NS03NXoiLz48L3N2Zz4=)](https://internetcomputer.org/)
-[![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)](https://en.wikipedia.org/wiki/Blockchain)
+### Web3
+![ICP](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white)
 
-## 📌 Currently Working On
+---
 
-- Building cross-platform mobile applications with **Flutter**
-- Exploring **Web3** and decentralized app development
-- Enhancing my skills in **cloud architecture** and **microservices**
-- Implementing **clean architecture** patterns in mobile development
+## Currently
 
-## 🔍 About Me
+- 🔨 Building cross-platform mobile apps with **Flutter** (clean architecture)
+- ⛓️ Exploring **Web3** & decentralized apps on the Internet Computer
+- ☁️ Levelling up in **cloud architecture** & microservices
+- 🌍 Open-source contributor, based in **Nairobi**
 
-I'm a solutions-driven developer with expertise across the full stack. My journey includes:
+---
 
-- Developing **scalable web applications** using modern JavaScript frameworks and Python
-- Building **beautiful, performant mobile apps** with Flutter
-- Designing **RESTful APIs** and **microservices** architectures
-- Implementing **responsive UIs** with Tailwind CSS and component libraries
-- Exploring **blockchain** technologies and **smart contract** development
+## Connect
 
-I'm passionate about **writing clean, maintainable code** and believe in the power of **continuous learning**. When I'm not coding, you'll find me contributing to open-source projects or exploring new tech trends.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
-## 📈 GitHub Stats
-
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-
-💌 **Reach out for collaborations or just to say hi!**
+> *Open to freelance projects, collaborations, and full-time opportunities.*
