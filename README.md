@@ -1,129 +1,122 @@
-<div align="center">
+# Oscar Mwangangi ⚡
 
-```
-╔══════════════════════════════════════════════════════╗
-║  oscar@mwangangi:~$ whoami                           ║
-║  ▸ Full-Stack · Mobile · Web3 Engineer               ║
-║  oscar@mwangangi:~$ uptime                           ║
-║  ▸ building since 2019 · still compiling             ║
-╚══════════════════════════════════════════════════════╝
-```
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue\&style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-
-</div>
+> Building scalable systems • Designing clean architectures • Shipping real-world solutions
 
 ---
 
-## `$ cat stack.json`
+## 🧠 Engineering Focus
 
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Frontend & Mobile</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Backend & Databases</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>Web3 & Infra</b></summary>
-<br>
-
-![ICP](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</details>
+![Fullstack](https://img.shields.io/badge/Fullstack-Engineer-0A0A0A?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-Applications-1F6FEB?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/Mobile-Apps-02569B?style=for-the-badge)
+![Systems](https://img.shields.io/badge/System-Design-6E40C9?style=for-the-badge)
 
 ---
 
-## `$ git log --oneline --graph`
+## ⚙️ Tech Stack
 
-```
-* feat(mobile)   → shipping cross-platform Flutter apps  ........  [active]
-* feat(web3)     → decentralized apps on Internet Computer  ......  [active]
-* chore(infra)   → cloud architecture & microservices  ...........  [learning]
-* refactor       → clean architecture: domain/data/presentation  .  [always]
-* explore(chain) → smart contracts & ICP blockchain  .............  [exploring]
-```
+### 🧩 Core Languages
 
----
-
-## `$ ls ./pinned --verbose`
-
-| project | description | stack | status |
-|---------|-------------|-------|--------|
-| `cross-platform-app` | Flutter app — one codebase, two platforms | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
-| `web3-dapp` | Decentralized app on ICP | ![Motoko](https://img.shields.io/badge/-Motoko-29ABE2?style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) |
-| `api-gateway` | RESTful microservice with auth layer | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
-| `flutter-ui-kit` | Reusable component library for mobile | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Maintained](https://img.shields.io/badge/status-maintained-blue?style=flat-square) |
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Typed-3178C6?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge\&logo=python)
+![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=for-the-badge\&logo=php)
 
 ---
 
-## `$ cat /proc/stats`
+### 🎨 Frontend
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
-
-</div>
+![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Fullstack-000000?style=for-the-badge\&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=for-the-badge\&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge\&logo=bootstrap)
 
 ---
 
-## `$ ./contact.sh --open-to`
+### 🔧 Backend
 
-```bash
-✔  collabs on interesting problems
-✔  contract / freelance work
-✔  open source contributions
-✗  vague DMs without context
-```
-
-> 💌 reach out → **[LinkedIn](https://www.linkedin.com/in/oscar-m-57a622324/)** · **[Twitter](https://twitter.com/yourhandle)**
+![Node.js](https://img.shields.io/badge/Node.js-Server-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-API-000000?style=for-the-badge\&logo=express)
+![Django](https://img.shields.io/badge/Django-Python-092E20?style=for-the-badge\&logo=django)
+![Laravel](https://img.shields.io/badge/Laravel-PHP-FF2D20?style=for-the-badge\&logo=laravel)
 
 ---
 
-<div align="center">
+### 📱 Mobile
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&style=flat-square&color=58a6ff)
+![Flutter](https://img.shields.io/badge/Flutter-Cross--Platform-02569B?style=for-the-badge\&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge\&logo=dart)
 
-`oscar@mwangangi:~$ █`
+---
 
-</div>
+### 🗄 Data & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge\&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-BaaS-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+---
+
+### 🧪 Emerging
+
+![Web3](https://img.shields.io/badge/Web3-Blockchain-121D33?style=for-the-badge)
+![Motoko](https://img.shields.io/badge/Motoko-ICP-29ABE2?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-FF6F00?style=for-the-badge)
+
+---
+
+## 🏗 What I Build
+
+![APIs](https://img.shields.io/badge/REST-APIs-4CAF50?style=flat-square)
+![Realtime](https://img.shields.io/badge/Realtime-Systems-orange?style=flat-square)
+![Mobile](https://img.shields.io/badge/Cross--Platform-Apps-blue?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Tools-purple?style=flat-square)
+
+* Scalable web platforms
+* Real-time systems (chat, tracking, notifications)
+* Cross-platform mobile apps
+* Backend services & automation
+
+---
+
+## 🚀 Current Projects
+
+![CRM](https://img.shields.io/badge/Mini-CRM-1F6FEB?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-Scheduler-02569B?style=flat-square)
+![Web3](https://img.shields.io/badge/OscarCoin-Web3-121D33?style=flat-square)
+![Trading](https://img.shields.io/badge/Trading-Bot-FF6F00?style=flat-square)
+
+* Lead Management CRM (filters, pipeline, real-time updates)
+* Flutter scheduling app with alarms
+* OscarCoin (token + wallet + transfers)
+* Python auto-trading bot (SMC strategy)
+
+---
+
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🌐 Connect
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)
+![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge\&logo=twitter)
+
+* https://www.linkedin.com/in/oscar-m-57a622324/
+* https://twitter.com/yourhandle
+
+---
+
+## ⚡ Engineering Philosophy
+
+![Clean Code](https://img.shields.io/badge/Clean-Code-brightgreen?style=flat-square)
+![Scalable](https://img.shields.io/badge/Scalable-Systems-blue?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance-Focused-orange?style=flat-square)
+
+> Code for scale. Design for humans. Ship consistently.
