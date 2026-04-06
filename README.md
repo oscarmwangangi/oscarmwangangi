@@ -1,13 +1,8 @@
 <div align="center">
-
-# Oscar Mwangangi ⚡
-
-![Profile Views](https://komarev.com/ghpvc/?username=OscarMwangangi\&color=blue\&style=flat-square)
-
-> Mobile • Web • FullStack Developer
-
-════════════════════════════════════════════╝
----
+  
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29abe2&width=435&lines=Full-Stack+Engineer;Mobile+App+Architect;Web3+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</p>
 
 
 
@@ -124,7 +119,7 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=oscarmwangangi.oscarmwangangi&style=flat-square&color=58a6ff)
+![Profile Views](https://komarev.com/ghpvc/?username=OscarMwangangi\&color=blue\&style=flat-square)
 
 `oscar@mwangangi:~$ █`
 
