@@ -1,14 +1,8 @@
 <div align="center">
   
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29abe2&width=435&lines=Full-Stack+Engineer;Mobile+App+Architect;Web3+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff6f00&fontSize=28&width=600&lines=Full-Stack+Engineer;Mobile+App+Architect;Web3+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oscar-mwangangi-portolio.vercel.app/)
 
 </div>
 
@@ -94,11 +88,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmwangangi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmwangangi&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmwangangi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmwangangi&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Oscarmwangangi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+<!-- GitHub Streak -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscarmwangangi&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
 
 </div>
 
@@ -113,7 +110,9 @@
 ✗  vague DMs without context
 ```
 
-> 💌 reach out → **[LinkedIn](https://www.linkedin.com/in/oscar-m-57a622324/)** · **[Twitter](https://twitter.com/yourhandle)**
+> 💌 reach out → **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oscar-mwangangi-portolio.vercel.app/)
 
 ---
 
