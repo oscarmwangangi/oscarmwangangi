@@ -1,13 +1,15 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  oscar@mwangangi:~$ whoami                           ║
-║  ▸ Full-Stack · Mobile · Web3 Engineer               ║
-║  oscar@mwangangi:~$ uptime                           ║
-║  ▸ building since 2019 · still compiling             ║
-╚══════════════════════════════════════════════════════╝
-```
+# Oscar Mwangangi ⚡
+
+![Profile Views](https://komarev.com/ghpvc/?username=OscarMwangangi\&color=blue\&style=flat-square)
+
+> Mobile • Web • FullStack Developer
+
+════════════════════════════════════════════╝
+---
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
