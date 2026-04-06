@@ -1,6 +1,6 @@
 # Oscar Mwangangi ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=Oscar_Mwangangi\&color=blue\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=OscarMwangangi\&color=blue\&style=flat-square)
 
 > Building scalable systems • Designing clean architectures • Shipping real-world solutions
 
