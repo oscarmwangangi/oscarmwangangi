@@ -1,89 +1,80 @@
-# Oscar Mwangangi ⚡
+<!-- Header -->
+<div align="center">
 
-> Building scalable systems, clean architectures, and real-world solutions.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  oscar@mwangangi:~$ whoami                                    ║
+║  > Full-Stack Engineer · Mobile · Web3                        ║
+║  oscar@mwangangi:~$ uptime                                    ║
+║  > building things since 2019, still going                    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
-
-## 🧠 Engineering Focus
-
-- Full-Stack Web Development (React, Node, Laravel, Django)
-- Mobile App Development (Flutter)
-- System Design & API Architecture
-- Real-time Systems & Automation
-- Exploring Web3 & Distributed Systems
-
----
-
-## ⚙️ Tech Stack
-
-**Core**
-- JavaScript / TypeScript
-- Python / PHP
-
-**Frontend**
-- React / Next.js
-- Tailwind CSS / Bootstrap
-
-**Backend**
-- Node.js / Express
-- Django / Laravel
-
-**Mobile**
-- Flutter (Dart)
-
-**Data**
-- MySQL / MongoDB / Firebase
-
-**Emerging**
-- Web3 (Motoko, Blockchain)
-- Microservices & System Design
+</div>
 
 ---
 
-## 🧩 What I Build
+## `$ cat stack.json`
 
-- 🔹 Scalable web applications with clean architecture
-- 🔹 RESTful APIs & backend systems
-- 🔹 Cross-platform mobile apps
-- 🔹 Real-time features (chat, notifications, tracking)
-- 🔹 Automation tools & backend services
-
----
-
-## 🚀 Current Work
-
-- Building a **Mini CRM system** (lead management + real-time updates)
-- Developing a **Flutter scheduling app with alarms**
-- Creating a **Web3 token (OscarCoin) + full ecosystem**
-- Working on **auto-trading bot (SMC strategy + Python)**
+```json
+{
+  "languages":  ["TypeScript", "Dart", "Python", "PHP", "JavaScript"],
+  "frontend":   ["React", "Next.js", "Tailwind CSS"],
+  "mobile":     ["Flutter"],
+  "backend":    ["Node.js", "Express", "Django", "Laravel"],
+  "databases":  ["MySQL", "MongoDB", "Firebase"],
+  "web3":       ["Motoko", "ICP", "Blockchain"],
+  "currently":  ["clean architecture", "microservices", "cloud infra"]
+}
+```
 
 ---
 
-## 📊 Engineering Mindset
+## `$ ls -la ./projects`
 
-- Write code that scales, not just works
-- Prefer simplicity over complexity
-- Design before implementation
-- Focus on performance & user experience
-- Always learning, always shipping
+> Things I actually build — not just star
 
----
-
-## 📈 GitHub Activity
-
-<!-- Add your GitHub stats here -->
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+| repo | what it does | stack |
+|------|-------------|-------|
+| 🔧 `cross-platform-app` | Flutter app targeting iOS + Android from one codebase | Dart · Firebase |
+| 🌐 `web3-dapp` | Decentralized app on Internet Computer | Motoko · React |
+| ⚙️ `api-gateway` | RESTful microservice architecture with auth | Node.js · MySQL |
+| 📱 `flutter-ui-kit` | Component library for mobile | Flutter · Dart |
 
 ---
 
-## 🌍 Connect
+## `$ git log --oneline`
 
-- LinkedIn → https://www.linkedin.com/in/oscar-m-57a622324/
-- Twitter → https://twitter.com/yourhandle
+```bash
+feat: shipping cross-platform mobile apps with Flutter
+chore: learning cloud architecture & container orchestration  
+feat: implementing clean arch patterns (domain/data/presentation)
+explore: ICP blockchain & smart contract development
+refactor: always — clean code is a habit, not a milestone
+```
 
 ---
 
-## ⚡ Philosophy
+## `$ ./contact.sh`
 
-> "Code is not just about solving problems — it's about building systems that last."
+```bash
+#!/bin/bash
+# pick your channel
+
+linkedin="https://www.linkedin.com/in/oscar-m-57a622324/"
+twitter="https://twitter.com/yourhandle"
+
+echo "open to: collabs · contracts · interesting problems"
+echo "not open to: vague DMs without context"
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+<div align="center">
+
+`oscar@mwangangi:~$ █`
+
+</div>
