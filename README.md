@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img width="1440" height="1150" alt="image" src="https://github.com/user-attachments/assets/41f036b3-c576-4ec2-a7c7-eda834f00b32" /><div align="center">
+<img width="1240" height="950" alt="image" src="https://github.com/user-attachments/assets/41f036b3-c576-4ec2-a7c7-eda834f00b32" /><div align="center">
 
 </div>
 
