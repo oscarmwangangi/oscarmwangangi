@@ -88,12 +88,13 @@
 
 <div align="center">
 
-Metric	Level	Progress
-Total Repos	45	<img src="https://geps.dev/progress/75?dangerColor=800080&accColor=29abe2&speed=0" height="20" />
-Total Commits	1.2k	<img src="https://geps.dev/progress/80?dangerColor=800080&accColor=34d399&speed=0" height="20" />
-JavaScript	Expert	<img src="https://geps.dev/progress/85?dangerColor=800080&accColor=f7df1e&speed=0" height="20" />
-Python	Advanced	<img src="https://geps.dev/progress/70?dangerColor=800080&accColor=3776ab&speed=0" height="20" />
-Dart/Flutter	Intermediate	<img src="https://geps.dev/progress/60?dangerColor=800080&accColor=0175c2&speed=0" height="20" />
+| Metric         | Level        | Progress |
+|----------------|-------------|----------|
+| Total Repos    | 45          | <img src="https://geps.dev/progress/75?dangerColor=800080&accColor=29abe2&speed=0" height="20" /> |
+| Total Commits  | 1.2k        | <img src="https://geps.dev/progress/80?dangerColor=800080&accColor=34d399&speed=0" height="20" /> |
+| JavaScript     | Expert      | <img src="https://geps.dev/progress/85?dangerColor=800080&accColor=f7df1e&speed=0" height="20" /> |
+| Python         | Advanced    | <img src="https://geps.dev/progress/70?dangerColor=800080&accColor=3776ab&speed=0" height="20" /> |
+| Dart/Flutter   | Intermediate | <img src="https://geps.dev/progress/60?dangerColor=800080&accColor=0175c2&speed=0" height="20" /> |
 
 </div>
 
