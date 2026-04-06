@@ -1,14 +1,17 @@
-<!-- Header -->
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  oscar@mwangangi:~$ whoami                                    ║
-║  > Full-Stack Engineer · Mobile · Web3                        ║
-║  oscar@mwangangi:~$ uptime                                    ║
-║  > building things since 2019, still going                    ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║  oscar@mwangangi:~$ whoami                           ║
+║  ▸ Full-Stack · Mobile · Web3 Engineer               ║
+║  oscar@mwangangi:~$ uptime                           ║
+║  ▸ building since 2019 · still compiling             ║
+╚══════════════════════════════════════════════════════╝
 ```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 
 </div>
 
@@ -16,64 +19,110 @@
 
 ## `$ cat stack.json`
 
-```json
-{
-  "languages":  ["TypeScript", "Dart", "Python", "PHP", "JavaScript"],
-  "frontend":   ["React", "Next.js", "Tailwind CSS"],
-  "mobile":     ["Flutter"],
-  "backend":    ["Node.js", "Express", "Django", "Laravel"],
-  "databases":  ["MySQL", "MongoDB", "Firebase"],
-  "web3":       ["Motoko", "ICP", "Blockchain"],
-  "currently":  ["clean architecture", "microservices", "cloud infra"]
-}
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>Web3 & Infra</b></summary>
+<br>
+
+![ICP](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+</details>
+
+---
+
+## `$ git log --oneline --graph`
+
+```
+* feat(mobile)   → shipping cross-platform Flutter apps  ........  [active]
+* feat(web3)     → decentralized apps on Internet Computer  ......  [active]
+* chore(infra)   → cloud architecture & microservices  ...........  [learning]
+* refactor       → clean architecture: domain/data/presentation  .  [always]
+* explore(chain) → smart contracts & ICP blockchain  .............  [exploring]
 ```
 
 ---
 
-## `$ ls -la ./projects`
+## `$ ls ./pinned --verbose`
 
-> Things I actually build — not just star
-
-| repo | what it does | stack |
-|------|-------------|-------|
-| 🔧 `cross-platform-app` | Flutter app targeting iOS + Android from one codebase | Dart · Firebase |
-| 🌐 `web3-dapp` | Decentralized app on Internet Computer | Motoko · React |
-| ⚙️ `api-gateway` | RESTful microservice architecture with auth | Node.js · MySQL |
-| 📱 `flutter-ui-kit` | Component library for mobile | Flutter · Dart |
+| project | description | stack | status |
+|---------|-------------|-------|--------|
+| `cross-platform-app` | Flutter app — one codebase, two platforms | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| `web3-dapp` | Decentralized app on ICP | ![Motoko](https://img.shields.io/badge/-Motoko-29ABE2?style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) |
+| `api-gateway` | RESTful microservice with auth layer | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| `flutter-ui-kit` | Reusable component library for mobile | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Maintained](https://img.shields.io/badge/status-maintained-blue?style=flat-square) |
 
 ---
 
-## `$ git log --oneline`
+## `$ cat /proc/stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## `$ ./contact.sh --open-to`
 
 ```bash
-feat: shipping cross-platform mobile apps with Flutter
-chore: learning cloud architecture & container orchestration  
-feat: implementing clean arch patterns (domain/data/presentation)
-explore: ICP blockchain & smart contract development
-refactor: always — clean code is a habit, not a milestone
+✔  collabs on interesting problems
+✔  contract / freelance work
+✔  open source contributions
+✗  vague DMs without context
 ```
 
----
-
-## `$ ./contact.sh`
-
-```bash
-#!/bin/bash
-# pick your channel
-
-linkedin="https://www.linkedin.com/in/oscar-m-57a622324/"
-twitter="https://twitter.com/yourhandle"
-
-echo "open to: collabs · contracts · interesting problems"
-echo "not open to: vague DMs without context"
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-m-57a622324/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+> 💌 reach out → **[LinkedIn](https://www.linkedin.com/in/oscar-m-57a622324/)** · **[Twitter](https://twitter.com/yourhandle)**
 
 ---
 
 <div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&style=flat-square&color=58a6ff)
 
 `oscar@mwangangi:~$ █`
 
