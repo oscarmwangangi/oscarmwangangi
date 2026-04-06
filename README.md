@@ -88,14 +88,23 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmwangangi&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+<!-- GitHub Profile Stats - Modern Style -->
+<p align="center">
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmwangangi&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<!-- GitHub Contribution Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=oscarmwangangi&theme=react-dark&hide_border=false&area=true&custom_title=GitHub+Activity+Graph" alt="GitHub Activity Graph" />
 
-<!-- GitHub Streak -->
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscarmwangangi&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+<br>
+
+<!-- Top Languages (with gradient style) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmwangangi&layout=compact&theme=dracula&hide_border=false&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36" alt="Top Languages" />
+
+<br>
+
+<!-- WakaTime Coding Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=oscarmwangangi&theme=radical&hide_border=false&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="WakaTime Stats" />
+
+</p>
 
 </div>
 
