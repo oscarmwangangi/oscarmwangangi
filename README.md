@@ -1,7 +1,6 @@
-<img width="1440" height="1150" alt="image" src="https://github.com/user-attachments/assets/41f036b3-c576-4ec2-a7c7-eda834f00b32" /><div align="center">
   
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff6f00&fontSize=28&width=600&lines=Full-Stack+Engineer;Mobile+App+Architect;Web3+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&fontSize=32&width=600&lines=Full-Stack+Engineer;Mobile+App+Architect;Web3+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 </div>
@@ -88,13 +87,7 @@
 
 <div align="center">
 
-| Metric         | Level        | Progress |
-|----------------|-------------|----------|
-| Total Repos    | 45          | <img src="https://geps.dev/progress/75?dangerColor=800080&accColor=29abe2&speed=0" height="20" /> |
-| Total Commits  | 1.2k        | <img src="https://geps.dev/progress/80?dangerColor=800080&accColor=34d399&speed=0" height="20" /> |
-| JavaScript     | Expert      | <img src="https://geps.dev/progress/85?dangerColor=800080&accColor=f7df1e&speed=0" height="20" /> |
-| Python         | Advanced    | <img src="https://geps.dev/progress/70?dangerColor=800080&accColor=3776ab&speed=0" height="20" /> |
-| Dart/Flutter   | Intermediate | <img src="https://geps.dev/progress/60?dangerColor=800080&accColor=0175c2&speed=0" height="20" /> |
+<img width="1440" height="1150" alt="image" src="https://github.com/user-attachments/assets/41f036b3-c576-4ec2-a7c7-eda834f00b32" /><div align="center">
 
 </div>
 
